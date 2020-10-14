@@ -1,5 +1,6 @@
 #!/bin/bash/
-#hm
+#JoinWa
+clear
 
 echo "salin link ini"
 echo "https://chat.whatsapp.com/FuSGWfGwugXBoqNnwJAGkM"
